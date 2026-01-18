@@ -7,6 +7,6 @@ Aplikacja okienkowa do obsługi wypożyczalni samochodów.
 - PostgreSQL
 - Maven
 
-## Uruchomienie (macbook)
+## Uruchomienie
 ```bash
 mvn javafx:run
